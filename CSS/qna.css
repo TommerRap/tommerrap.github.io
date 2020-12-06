@@ -1,0 +1,24 @@
+*{margin: 0;padding: 0;}
+.a1{background-color: greenyellow;height: 72px;}
+.a2{height: 150px;}
+.hang{display: inline;}
+.b1{width: 800px;height: 200px;margin-left: 360px;}
+.kuang1{ color: white; background-color: rgb(56, 54, 54); width: 360px;height: 210px; float: left;padding: 10px;margin-bottom: 10px;
+    transition: background-color 0.3s;line-height: 25px;}
+    .kuang1:hover{background-color: orange;  transform: translate(0,1px);}
+.kuang2{ color: white; background-color: rgb(56, 54, 54); width: 360px;height: 210px; float: right;padding: 10px;margin-bottom: 10px;
+    transition: background-color 0.3s;line-height: 25px;}
+    .kuang2:hover{background-color: orange;  transform: translate(0,1px);}
+.kuang3{ color: white; background-color: rgb(56, 54, 54); width: 360px;height: 210px; float: left;padding: 10px;margin-bottom: 10px;
+    transition: background-color 0.3s;line-height: 25px;}
+    .kuang3:hover{background-color: orange;  transform: translate(0,1px);}
+.kuang4{ color: white; background-color: rgb(56, 54, 54); width: 360px;height: 210px; float: right;padding: 10px;margin-bottom: 10px;
+    transition: background-color 0.3s;line-height: 25px;}
+    .kuang4:hover{background-color: orange;  transform: translate(0,1px);}
+.kuang5{ color: white; background-color: rgb(56, 54, 54); width: 360px;height: 210px; padding: 10px; margin: 0 auto; 
+    transition: background-color 0.3s;margin-top: 100px; margin-bottom: 100px;line-height: 25px;}
+    .kuang5:hover{background-color: orange;  transform: translate(0,1px);}
+    .jz{text-align: center; color: rgb(31, 165, 31);height: 1px;}
+    .jz2{text-align: center;}
+    ul li{list-style: none;}
+    .hui{color: rgb(177, 174, 174);}

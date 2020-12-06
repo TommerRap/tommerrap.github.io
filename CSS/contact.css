@@ -1,0 +1,17 @@
+.p{
+    text-align:center;
+   font-size: 20px;
+}
+.div{ 
+      line-height: 35px;
+      width: 400px;
+      height: 260px;
+      margin: auto;
+      border:1px solid #96c2f1;background:#eff7ff
+    }
+.anniu{
+    background-color: white;
+}
+.anniu:hover{
+    background-color: orange;
+}
